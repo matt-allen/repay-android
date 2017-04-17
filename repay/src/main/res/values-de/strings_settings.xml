@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="settings_activity_title">Einstellungen</string>
+    <string name="settings_debthistory_title">Schuldenverlauf</string>
+    <string name="settings_general_title">Allgemein</string>
+    <string name="settings_general_currency_title">Ändere Währung</string>
+    <string name="settings_general_currency_desc">Ändere die Währung, die in Repay verwendet werden soll. Gespeicherte Schulden werden nicht konvertiert.</string>
+    
+    <string-array name="settings_general_currency_keys">
+		<item>Standardformat des Gerätes</item>
+        <item>UK - Pfund</item>
+        <item>US - Dollar</item>
+        <item>EU - Euro</item>
+    </string-array>
+    
+    <string-array name="settings_general_currency_values">
+		<item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    
+    <string name="settings_dateformat_title">Ändere Datumsformat</string>
+    <string name="settings_dateformat_desc">Wählen Sie ein Datumsformat aus, das im Schuldenverlauf Tab genutzt werden soll</string>
+    
+    <string-array name="settings_dateformat_keys">
+        <item>Standardformat des Gerätes</item>
+        <item>31/01/2013</item>
+        <item>01/31/2013</item>
+        <item>2013/01/31</item>
+        <item>Mon 31 Jan 2013</item>
+    </string-array>
+    
+    <string-array name="settings_dateformat_values">
+        <item>4</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+        <item>3</item>
+    </string-array>
+    
+    <string name="settings_debthistoryicons_colour_title">Schulden Indikatorfarben</string>
+    <string name="settings_debthistoryicons_colour_desc">Die Farben, die im Schuldenverlauf genutzt werden sollen</string>
+    
+    <string-array name="settings_debthistoryicons_colour_keys">
+        <item>Grün/Rot</item>
+        <item>Grün/Blau</item>
+    </string-array>
+    
+    <string-array name="settings_debthistoryicons_colour_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+    <string name="settings_usegridview_title">Nutze eine Gitteranzeige in der Zusammenfassung</string>
+    <string name="settings_usegridview_description">Nutze eine Gitteranzeige anstatt einer Liste beim Anzeigen der Zusammenfassung</string>
+    
+    <string name="settings_friendsList_title">Freundesliste</string>
+    
+    <string name="settings_friendsList_sortOrder_title">Sortierungsreihenfolge</string>
+    <string name="settings_friendsList_sortOrder_summary">Ändere die Reihenfolge, in der deine Freunde in der Liste angezeigt werden</string>
+    
+    <string-array name="settings_friendsList_sortOrder_keys">
+        <item>Zeige Personen, die mir Geld schulden, zuerst</item>
+        <item>Zeige Personen, denen ich Geld schulde, zuerst</item>
+    </string-array>
+    
+    <string-array name="settings_friendsList_sortOrder_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    
+    <string name="settings_feedback">Feedback</string>
+    <string name="settings_feedback_title">Ein Problem melden</string>
+    <string name="settings_feedback_summary">Falls Sie ein Problem in Repay gefunden haben, drücken Sie bitte hier, um mich zu benachrichtigen, damit ich mich darum kümmern kann</string>
+    
+</resources>

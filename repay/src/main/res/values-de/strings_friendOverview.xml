@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="no_debts">Ihr habt keine gegenseitigen Schulden</string>
+    
+    <string name="info_dialog_text">Diese Liste zeigt all das Geld, dass ihr euch bisher gegenseitig geliehen habt.\n
+ \n
+ Eine rote Markierung bedeutet, dass Sie sich das Geld geliehen haben.\n
+ \n
+ Eine grüne Markierung bedeutet, dass er sich das Geld geliehen hat.</string>
+
+    <string name="confirm_remove_person">Sind Sie sicher, dass Sie diese Person entfernen wollen?</string>
+    <string name="confirm_remove_debt">Sind Sie sicher, dass sie diese Schuld löschen wollen?</string>
+    <string name="are_you_sure">Sind Sie sicher?</string>
+    <string name="clear_debt">Schuld begleichen</string>
+
+    <string name="debt_repaid">Schuld beglichen</string>
+    
+    <string name="choose_sms">Wähle eine Nummer zum SMS versenden</string>
+    <string name="choose_email">Wähle eine Adresse zum E-Mail versenden</string>
+    
+    <string name="debtselected_title">Schuld bearbeiten oder löschen?</string>
+    <string-array name="debtselected_items">
+        <item>Bearbeiten</item>
+        <item>Löschen</item>
+    </string-array>
+    
+    <string name="debt_repaid_title">Wurden alle Schulden beglichen oder nur ein Teil?</string>
+    <string-array name="debt_repaid_items">
+        <item>Alle Schulden beglichen</item>
+        <item>Wie viel wurde zurückgezahlt?</item>
+    </string-array>
+    
+    <string name="i_owe">Ich schulde ihm</string>
+    <string name="they_owe">Sie schulden</string>
+
+</resources>
