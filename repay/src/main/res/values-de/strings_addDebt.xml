@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="description_hint">Beschreibung (Optional)</string>
+    <string name="no_amount_entered">Kein Betrag angegeben</string>
+    <string name="please_enter_amount">Bitte geben Sie einen Betrag an, um weiter zu machen</string>
+
+    <string name="they_owe_me">Sie schulden mir</string>
+    <string name="i_owe_them">Er schuldet mir</string>
+    <string name="add_friend">Freund hinzufügen</string>
+    <string name="enter_friends_name">Beim Name hinzufügen</string>
+    <string name="invalid_name_entry">Sie haben keinen gültigen Namen angegeben. Bitte versuchen Sie es erneut.</string>
+    <string name="debt_saved">Schuld wurde gespeichert</string>
+    <string name="split_amount">Teile den Betrag auf alle auf</string>
+    <string name="including_me">Mich mit eingeschlossen</string>
+    <string name="choose_people">Wähle eine oder mehrere Personen</string>
+    <string name="whats_debt_amount">Wie hoch ist die Schuld</string>
+    <string name="summary">Zusammenfassung</string>
+
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="zero_zero">00</string>
+    <string name="zero">0</string>
+    <string name="clear">C</string>
+
+    <string name="nobody_here">Sie haben noch keinen hier?</string>
+    <string name="add_someone">Jemanden hinzufügen</string>
+</resources>

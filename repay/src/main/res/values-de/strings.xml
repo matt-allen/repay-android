@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Repay</string>
+    <string name="refresh">Aktualisieren</string>
+    <string name="author">Matt Allen</string>
+    <string name="contentDesc">Inhalt</string>
+    <string name="title_activity_frienddetails">Übersicht</string>
+    <string name="title_activity_add_debt">Schuld hinzufügen</string>
+    <string name="required">Benötigt</string>
+    <string name="optional">Optional</string>
+    <string name="done">Fertig</string>
+    <string name="cancel">Abbruch</string>
+    <string name="next">Weiter</string>
+	<string name="okay">Okay</string>
+	<string name="add">Hinzufügen</string>
+	<string name="share">Teilen</string>
+	<string name="info">Info</string>
+	<string name="delete">Löschen</string>
+
+    <!-- Displayed when there are no friends in the database -->
+    <string name="havent_added_anyone">Sie haben noch keinen hinzugefügt?\n
+ \n
+ Nutzen Sie den Plus-Knopf um loszulegen</string>
+
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_adddebt">Neue Schuld</string>
+    <string name="action_addperson">Neue Person</string>
+    <string name="action_total">Bilanz</string>
+    <string name="action_cleardebt">Schuld beglichen</string>
+    <string name="action_info">Hilfe</string>
+    <string name="action_feedback">Feedback geben</string>
+    <string name="action_delete">Löschen</string>
+    <string name="action_unLinkContact">Von Kontakt trennen</string>
+    <string name="action_reLinkContact">Mit Kontakt verknüpfen</string>
+    <string name="action_recalculateTotals">Berechne Bilanz</string>
+
+    <string name="enter_amount">Geben Sie den Betrag an</string>
+    <string name="get_started">Loslegen</string>
+	<string name="history">Verlauf</string>
+	<string name="even_debt">Ihr seid quitt</string>
+	<string name="close">Schließen</string>
+	<string name="problem_getting_from_contacts">Es gab ein Problem beim Abrufen deiner Kontakte</string>
+	<string name="problem_adding_to_repay">Es gab ein Problem beim Hinzufügen der Person zu Repay</string>
+	<string name="friend_could_not_be_added">Freund konnte nicht hinzugefügt werden</string>
+	<string name="enter_name">Gebe seinen Namen ein</string>
+	<string name="please_enter_name">Bitte geben Sie einen Namen an</string>
+	<string name="manage_debt">Schulden verwalten</string>
+	<string name="youre_owed">Sie sind verschuldet</string>
+
+</resources>
